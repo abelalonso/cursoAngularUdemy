@@ -113,3 +113,15 @@ https://github.com/curso-angular-udemy/authApp
 - Subscribirnos a los cambios de los valores de los formularios.
 
 https://github.com/curso-angular-udemy/formularios
+
+## Uso del HTTP - CRUD - Firebase
+
+- Uso del modulo HTTP.
+- Utilizaremos los servicios restful de Firebase
+- POST.
+- GET.
+- DELETE.
+- PUT.
+- Configuraciones en la consola de Firebase.
+
+https://github.com/curso-angular-udemy/heroesApp
