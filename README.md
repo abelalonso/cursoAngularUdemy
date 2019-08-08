@@ -164,8 +164,42 @@ https://github.com/curso-angular-udemy/heroesApp
 - Eventos y diversas interacciones con los mapas
 - Edición de marcadores
 - Uso de Angular Material en el proyecto
--- Dialogs
--- Snacks
--- Inputs
--- Toolbars
--- Themes
+  - Dialogs
+  - Snacks
+  - Inputs
+  - Toolbars
+  - Themes
+  
+## Aplicación canal de YouTube
+
+- Creación de una API KEY para accesar los servicios de YouTube API v3a
+- Uso de la documentación de YouTube para obtener información de un canal
+- Obtener una lista de reproducción
+- Crear una página en la cual pueda cargar los videos de forma paginada
+- Usar el Token de respuesta de la api de YouTube
+
+## Aplicación de fotos - File upload hacia Firebase
+
+- Uso de directivas
+- Detalles del Hostlistener
+- Input y Outputs
+- Storage de Firebase
+- uploadTask de Firebase
+- Evento drop, dragenter, dragleave, dragover
+- Uso de tipo de dato File
+
+## Gráficas dinámicas en Angular con chart.js
+
+- Instalaciones necesarias
+- Configuraciones
+- Gráfico de Barras
+- Gráfico de Donut
+- Gráfico de Radar
+- Gráfico de Pastel
+- Gráfico Polar
+- Gráfico de Burbujas
+
+## Actualización Angular 7
+
+- Drag and Drop de Angular
+- Virtual Scroll
