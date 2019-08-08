@@ -99,25 +99,38 @@ https://github.com/curso-angular-udemy/miscelanea
 
 https://github.com/curso-angular-udemy/authApp
 
+## Aplicación de autenticación tradicional
+
+- Validar formularios
+- Tokens
+- LocalStorage
+- Borrar tokens
+- Caducidad de tokens
+- Creación de usuarios
+- Posteos
+- Firebase REST API
+
+https://github.com/curso-angular-udemy/app-login
+
 ## Formularios
 
 - Diferentes aproximaciones que tiene angular para trabajar formularios.
-- Profundizaremos en el uso del ngModel.
-- Utilizar las validaciones pre fabricadas.
+- Uso del ngModel.
+- Uso de las validaciones prefabricadas.
 - Crear validaciones personalizadas.
 - Crear validaciones asíncronas.
 - Realizar un submit utilizando el ngSubmit.
 - Postear información únicamente cuando el formulario es valido,
 - Crear formularios del lado del componente.
 - Cargar información por defecto a los formularios.
-- Subscribirnos a los cambios de los valores de los formularios.
+- Subscripción a los cambios de los valores de los formularios.
 
 https://github.com/curso-angular-udemy/formularios
 
 ## Uso del HTTP - CRUD - Firebase
 
 - Uso del modulo HTTP.
-- Utilizaremos los servicios restful de Firebase
+- Uso los servicios restful de Firebase
 - POST.
 - GET.
 - DELETE.
@@ -125,3 +138,34 @@ https://github.com/curso-angular-udemy/formularios
 - Configuraciones en la consola de Firebase.
 
 https://github.com/curso-angular-udemy/heroesApp
+
+## Aplicación de chat - angularFire2
+
+- Uso de AngularFire2 - Librería oficial de angular para conectarse a Firebase.
+- Crear observables para escuchar mediante sockets los cambios en Firebase.
+- Uso de la autenticación de Google y Twitter para nuestro chat.
+- Uso de AngularFire2 para manejar las inserciones.
+- Uso de promesas para poder ejecutar funciones cuando detectamos cambios en la base de datos.
+- Uso el local storage para almacenar información del login para mantener las sesión.
+
+## Aplicación películas
+
+- JSONP, para obtener información que proviene de otros dominios.
+- Posibles errores por la versión 2.4.6 y 2.4.7 del HTTP Router.
+- Actualización de un paquete en especifico del proyecto.
+- Enviar información de un componente a otro para resumir el código HTML.
+
+## Aplicación Google Maps
+
+- Uso de Google Maps en un proyecto con Angular
+- Creación del API KEY de Google Maps
+- Uso de Reactive Forms - FormBuilder
+- Creación de marcadores en el mapa
+- Eventos y diversas interacciones con los mapas
+- Edición de marcadores
+- Uso de Angular Material en el proyecto
+-- Dialogs
+-- Snacks
+-- Inputs
+-- Toolbars
+-- Themes
