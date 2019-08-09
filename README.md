@@ -148,12 +148,16 @@ https://github.com/curso-angular-udemy/heroesApp
 - Uso de promesas para poder ejecutar funciones cuando detectamos cambios en la base de datos.
 - Uso el local storage para almacenar información del login para mantener las sesión.
 
+https://github.com/curso-angular-udemy/firechat
+
 ## Aplicación películas
 
 - JSONP, para obtener información que proviene de otros dominios.
 - Posibles errores por la versión 2.4.6 y 2.4.7 del HTTP Router.
 - Actualización de un paquete en especifico del proyecto.
 - Enviar información de un componente a otro para resumir el código HTML.
+
+https://github.com/curso-angular-udemy/peliculas-app
 
 ## Aplicación Google Maps
 
@@ -170,6 +174,8 @@ https://github.com/curso-angular-udemy/heroesApp
   - Toolbars
   - Themes
   
+ https://github.com/curso-angular-udemy/mapas
+  
 ## Aplicación canal de YouTube
 
 - Creación de una API KEY para accesar los servicios de YouTube API v3a
@@ -177,6 +183,8 @@ https://github.com/curso-angular-udemy/heroesApp
 - Obtener una lista de reproducción
 - Crear una página en la cual pueda cargar los videos de forma paginada
 - Usar el Token de respuesta de la api de YouTube
+
+https://github.com/curso-angular-udemy/canal-youtube
 
 ## Aplicación de fotos - File upload hacia Firebase
 
@@ -188,18 +196,25 @@ https://github.com/curso-angular-udemy/heroesApp
 - Evento drop, dragenter, dragleave, dragover
 - Uso de tipo de dato File
 
+https://github.com/curso-angular-udemy/fotos-firebase
+
 ## Gráficas dinámicas en Angular con chart.js
 
 - Instalaciones necesarias
 - Configuraciones
 - Gráfico de Barras
+- Gráfico de Líneas
 - Gráfico de Donut
 - Gráfico de Radar
 - Gráfico de Pastel
 - Gráfico Polar
 - Gráfico de Burbujas
 
+https://github.com/curso-angular-udemy/graficas
+
 ## Actualización Angular 7
 
 - Drag and Drop de Angular
 - Virtual Scroll
+
+https://github.com/curso-angular-udemy/virtualDrop-Drag-Drop
